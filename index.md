@@ -4,11 +4,11 @@
 Our platform is designed to streamline office management for veterinarians, offering a comprehensive solution for tracking vital information about their practice. From scheduling appointments to managing patient records, our intuitive interface makes it easy for vets to stay organized and focused on providing excellent care to their furry patients.
 
 ### Link to the Product
-Visit our website [here](https://www.vetoffice.com) to explore our features and sign up for an account.
+Visit our website [here](http://angular-checkmate.s3-website-us-west-2.amazonaws.com/dashboard) to explore our features and sign up for an account.
 
 ### Creating an Account
 To create an account on our platform, follow these simple steps:
-1. Visit our website [here](https://www.vetoffice.com).
+1. Visit our website [here](http://angular-checkmate.s3-website-us-west-2.amazonaws.com/dashboard).
 2. Click on the "Sign Up" button located in the top right corner of the homepage.
 3. Fill out the registration form with your details, including your name, email address, and practice information.
 4. Once you've filled out the form, click "Create Account" to complete the registration process.
