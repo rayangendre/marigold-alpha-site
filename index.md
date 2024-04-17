@@ -8,7 +8,7 @@ Visit our website [here](http://angular-checkmate.s3-website-us-west-2.amazonaws
 
 ### Creating an Account
 To create an account on our platform, follow these simple steps:
-1. Visit our website [here](http://angular-checkmate.s3-website-us-west-2.amazonaws.com/dashboard).
+1. Visit our website [here](http://angular-checkmate.s3-website-us-west-2.amazonaws.com/sign-in).
 2. Click on the "Sign Up" button located in the top right corner of the homepage.
 3. Fill out the registration form with your details, including your name, email address, and practice information.
 4. Once you've filled out the form, click "Create Account" to complete the registration process.
@@ -22,7 +22,7 @@ If you encounter any issues or bugs while using our platform, we encourage you t
 4. Once you've completed the form, click "Submit."
 5. Our team will receive your bug report and work to address the issue as soon as possible. If necessary, we may reach out to you for further information.
 
-<form action="YOUR_FORM_ACTION_URL" method="post">
+<form action="/" method="post">
   <label for="bug-description">Description of the Bug:</label><br>
   <textarea id="bug-description" name="bug-description" rows="4" cols="50"></textarea><br>
   <label for="email">Your Email:</label><br>
