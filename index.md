@@ -77,6 +77,7 @@ If you encounter any issues or bugs while using our platform, we encourage you t
 If you have any questions or need assistance, feel free to contact our support team at [support@marigold.com](mailto:support@marigold.com). We're here to help!
 
 [EndUserLicenseAgreement](eula.md)
+[PrivacyPolicy](privacy.md)
 
 
 
