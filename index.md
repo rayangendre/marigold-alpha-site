@@ -9,10 +9,28 @@ Visit our website [here](http://angular-checkmate.s3-website-us-west-2.amazonaws
 ### Creating an Account
 To create an account on our platform, follow these simple steps:
 1. Visit our website [here](http://angular-checkmate.s3-website-us-west-2.amazonaws.com/sign-in).
-2. Click on the "Sign Up" button
-3. Fill out the registration form with your details, including your name and email address
-4. Once you've filled out the form, click "Create Account" to complete the registration process.
-5. Check your email for a temporary password and the next steps for registration
+2. From an account with admin privileges, send a user a product invitation via email.
+3. Check your email for a temporary password and sign in to continue the next steps for registration.
+4. Fill out the registration form with your details, including your name and email address.
+5. Once you’ve filled out the form, send and enter a verification code through your registered email to validate your account.
+
+For testing purposes, you can also log in with this existing user account: To Be Added
+
+### Instructions on How To Install and Use Checkmate
+
+<a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
+
+Node Version: >= 18 | Angular Version: 17
+
+1. Start the app
+a. First, install all the packages
+b. Ensure you select the workspace in the Nx VS Code extension
+![image](https://github.com/CPSECapstone/checkmate_frontend/assets/43485199/76368c3c-d00b-4bd7-a3a4-2caaca8930f8)
+2. Next, start the aplication using Nx Extension 
+a. Or you can start the development server run `nx serve checkmate`. Open your browser and navigate to http://localhost:4200/. Happy coding!
+![image](https://github.com/CPSECapstone/checkmate_frontend/assets/43485199/558e18dc-84b9-4cbb-9bf4-c43db2f0906c)
+![image](https://github.com/CPSECapstone/checkmate_frontend/assets/43485199/a3c3dd25-4c58-4d97-b302-87e080229726)
+
 
 ### Reporting a Bug
 If you encounter any issues or bugs while using our platform, we encourage you to report them to us promptly. Here's how to do it:
