@@ -23,15 +23,58 @@ If you encounter any issues or bugs while using our platform, we encourage you t
 5. Our team will receive your bug report and work to address the issue as soon as possible. If necessary, we may reach out to you for further information.
 
 ### Help
-<form action="/" method="post">
-  <label for="bug-description">Description of the Bug:</label><br>
-  <textarea id="bug-description" name="bug-description" rows="4" cols="50"></textarea><br>
-  <label for="email">Your Email:</label><br>
-  <input type="email" id="email" name="email"><br><br>
-  <input type="submit" value="Submit Bug Report">
-</form>
+<div class="help-container">
+    <form action="/" method="post">
+        <label for="bug-description">Description of the Bug:</label><br>
+        <textarea id="bug-description" name="bug-description" rows="4" cols="50"></textarea><br>
+        <label for="email">Your Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+        <input type="submit" value="Submit Bug Report">
+    </form>
+</div>
 
-If you have any questions or need assistance, feel free to contact our support team at [support@vetoffice.com](mailto:support@vetoffice.com). We're here to help!
+<style>
+    .help-container {
+        max-width: 500px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h3 {
+        margin-top: 0;
+        color: #333;
+    }
+    label {
+        display: block;
+        margin-bottom: 5px;
+        color: #555;
+    }
+    textarea,
+    input[type="email"] {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+    input[type="submit"] {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        border-radius: 4px;
+    }
+    input[type="submit"]:hover {
+        background-color: #0056b3;
+    }
+</style>
+
+If you have any questions or need assistance, feel free to contact our support team at [support@marigold.com](mailto:support@marigold.com). We're here to help!
 
 [EndUserLicenseAgreement](eula.md)
 
