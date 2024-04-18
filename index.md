@@ -23,13 +23,20 @@ For testing purposes, you can also log in with this existing user account: To Be
 Node Version: >= 18 | Angular Version: 17
 
 1. Start the app
-a. First, install all the packages
-b. Ensure you select the workspace in the Nx VS Code extension
-![image](https://github.com/CPSECapstone/checkmate_frontend/assets/43485199/76368c3c-d00b-4bd7-a3a4-2caaca8930f8)
-2. Next, start the aplication using Nx Extension 
-a. Or you can start the development server run `nx serve checkmate`. Open your browser and navigate to http://localhost:4200/. Happy coding!
-![image](https://github.com/CPSECapstone/checkmate_frontend/assets/43485199/558e18dc-84b9-4cbb-9bf4-c43db2f0906c)
-![image](https://github.com/CPSECapstone/checkmate_frontend/assets/43485199/a3c3dd25-4c58-4d97-b302-87e080229726)
+- First, install all the packages `npm install`
+- Ensure you select the workspace in the Nx VS Code extension
+
+2. Next, start the application using Nx Extension 
+- You can also start the development server run `nx serve checkmate`. Open your browser and navigate to http://localhost:4200/. Happy coding!
+  
+3. Helpful tips
+- If you happen to use Nx plugins, you can leverage code generators that might come with it.
+- Run `nx list` to get a list of available plugins and whether they have generators. Then run `nx list <plugin-name>` to see what generators are available.
+- Running tasks: To execute tasks with Nx use the following syntax:
+```
+nx <target> <project> <...options>
+```
+- To test the product, use Nx extension and click "storybook"
 
 
 ### Reporting a Bug
