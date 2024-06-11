@@ -50,7 +50,7 @@ You can set your browser not to accept cookies, and the above website tells you 
 The Marigold website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy. 
 
 ### Changes to our privacy policy 
-Marigold keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on xx Month 20yy. 
+Marigold keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on June 10th, 2024. 
 
 ### How to contact us 
 If you have any questions about Marigold's privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us. 
