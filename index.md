@@ -39,11 +39,10 @@ nx <target> <project> <...options>
 
 ### Reporting a Bug
 If you encounter any issues or bugs while using our platform, we encourage you to report them to us promptly. Here's how to do it:
-1. Navigate to the "Help" section of our website.
-2. Click on the "Report a Bug" option.
-3. Fill out the bug report form with as much detail as possible, including a description of the issue and any steps to reproduce it.
-4. Once you've completed the form, click "Submit."
-5. Our team will receive your bug report and work to address the issue as soon as possible. If necessary, we may reach out to you for further information.
+1. Navigate to the "Help" section below.
+2. Fill out the bug report form with as much detail as possible, including a description of the issue and any steps to reproduce it.
+3. Once you've completed the form, click "Submit."
+4. Our team will receive your bug report and work to address the issue as soon as possible. If necessary, we may reach out to you for further information.
 
 ### Help
 This Google Form is linked below for you to submit any concerns.
