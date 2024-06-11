@@ -1,6 +1,6 @@
-## End-User License Agreement (EULA) of Marigold
+## End-User License Agreement (EULA)
 
-This End-User License Agreement ("EULA") is a legal agreement between you and Marigold
+This End-User License Agreement ("EULA") is a legal agreement between you and Laguna Veterinary Clinic.
 
 This EULA agreement governs your acquisition and use of our Marigold software ("Software") directly from Marigold or indirectly through a Marigold authorized reseller or distributor (a "Reseller").
 
