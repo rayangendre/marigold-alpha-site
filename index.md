@@ -14,8 +14,6 @@ To create an account on our platform, follow these simple steps:
 4. Fill out the registration form with your details, including your name and email address.
 5. Once you’ve filled out the form, send and enter a verification code through your registered email to validate your account.
 
-For testing purposes, you can also log in with this existing user account: To Be Added
-
 ### Instructions on How To Install and Use Checkmate
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
@@ -53,7 +51,7 @@ This Google Form is linked below for you to submit any concerns.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfFfVtO8I1TJu0VtmPwPPiyfKnrWO3HXLCral8_0nJDFtEd4Q/viewform?embedded=true" width="640" height="1009" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
-If you have any questions or need assistance, feel free to contact our support team at [support@marigold.com](mailto:support@marigold.com). We're here to help!
+
 
 [End User License Agreement](eula.md) | 
 [Privacy Policy](privacy.md)
