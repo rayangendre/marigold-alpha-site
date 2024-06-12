@@ -36,6 +36,11 @@ nx <target> <project> <...options>
 ```
 - To test the product, use Nx extension and click "storybook"
 
+- View demo for the user side below:
+
+https://drive.google.com/file/d/13buFfJhxIrvGrcK3wuIZL1AN4bRdZ4aL/view?usp=sharing
+ 
+
 
 ### Reporting a Bug
 If you encounter any issues or bugs while using our platform, we encourage you to report them to us promptly. Here's how to do it:
